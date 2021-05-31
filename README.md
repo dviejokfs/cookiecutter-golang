@@ -1,4 +1,4 @@
-# cookiecutter-golang
+# cookiecutter-golang.
 
 [![Build Status](https://travis-ci.org/lacion/cookiecutter-golang.svg?branch=master)](https://travis-ci.org/lacion/cookiecutter-golang)
 
